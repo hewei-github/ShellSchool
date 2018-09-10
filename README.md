@@ -1,7 +1,7 @@
 ShellSchool [脚本练习]
 ---------------------------------------------  
 
-![ShellSchool](https://github.com/hewei-github/ShellSchool/assets/images/codeShell.png)
+![ShellSchool](https://github.com/hewei-github/ShellSchool/blob/master/assets/images/codingShell.png)
 
 > Learing Shells sciprt and develop small tools for work  
  
