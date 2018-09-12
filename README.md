@@ -5,13 +5,15 @@ ShellSchool [脚本练习]
 
 > Learing Shells sciprt and develop small tools for work  
  
-      1.  bash  [Bourne Shell]
-      2.  sh    
-      3.  kshell
-      4.  zshell
+     
+      1.  sh     [Bourne Shell]    
+      2.  bash   [Bourne Again Shell]        
+      3.  zshell
+      4.  kshell [Korn shell]
       5.  cshell
 
       2.  cmd(bat)
       3.  powershell
+
 
 
