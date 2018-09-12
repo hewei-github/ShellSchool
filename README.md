@@ -15,5 +15,14 @@ ShellSchool [脚本练习]
       2.  cmd(bat)
       3.  powershell
 
+> script for string   
+
+> script for system info   
+
+> script for file options   
+
+>  script  for  docker-machine   
+
+
 
 
