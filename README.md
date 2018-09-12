@@ -15,14 +15,14 @@ ShellSchool [脚本练习]
       2.  cmd(bat)
       3.  powershell
 
-> script for string options [字符串操作]
+> script for string options [字符串操作]  
 
   #### string set [字符串赋值]   
 
   #### string length [字符串长度]  
 
   #### string match [字符串对比]   
-      
+
   #### string cut [字符串剪切]   
 
   #### string join [字符串拼接]   

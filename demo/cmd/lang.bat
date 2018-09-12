@@ -6,9 +6,7 @@ REM 注释
 REM 中文注释 echo "dir :" %~dp0 中文注释
 
 SET __DIR__=%~dp0
-
-echo %__DIR__%
-
+echo %~dp0
 IF NOT  "%1"=="" ( 
       echo %1 
 ) ELSE ( 
